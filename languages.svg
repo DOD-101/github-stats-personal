@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #7e7eff; 
-  width: 66.968%;
+  width: 66.972%;
 " class="progress-item"></span><span style="
   background-color: #199f4b; 
-  width: 14.468%;
+  width: 14.465%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 10.756%;
+  width: 10.757%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 1.525%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.515%;
+  width: 1.514%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
   width: 1.293%;
@@ -176,7 +176,7 @@ div.ellipsis {
   width: 0.112%;
 " class="progress-item"></span><span style="
   background-color: #60AFFE; 
-  width: 0.092%;
+  width: 0.091%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.077%;
@@ -456,7 +456,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vim Script</span>
-  <span class="percent">14.47%</span>
+  <span class="percent">14.46%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -488,7 +488,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">1.53%</span>
+  <span class="percent">1.52%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
