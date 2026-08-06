@@ -134,13 +134,13 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #7e7eff; 
-  width: 66.944%;
+  width: 66.954%;
 " class="progress-item"></span><span style="
   background-color: #199f4b; 
-  width: 14.524%;
+  width: 14.518%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 10.745%;
+  width: 10.740%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 1.521%;
@@ -241,10 +241,10 @@ div.ellipsis {
   background-color: #438eff; 
   width: 0.009%;
 " class="progress-item"></span><span style="
-  background-color: #64b970; 
+  background-color: #3178c6; 
   width: 0.008%;
 " class="progress-item"></span><span style="
-  background-color: #3178c6; 
+  background-color: #64b970; 
   width: 0.008%;
 " class="progress-item"></span><span style="
   background-color: #000; 
@@ -440,7 +440,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Nix</span>
-  <span class="percent">66.94%</span>
+  <span class="percent">66.95%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -1006,22 +1006,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #64b970;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">sed</span>
-  <span class="percent">0.01%</span>
-</li>
-<li style="animation-delay: 5700ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #3178c6;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -1032,6 +1016,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
+  <span class="percent">0.01%</span>
+</li>
+<li style="animation-delay: 5700ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #64b970;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">sed</span>
   <span class="percent">0.01%</span>
 </li>
 <li style="animation-delay: 5850ms;">
