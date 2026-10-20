@@ -134,25 +134,25 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #7e7eff; 
-  width: 67.175%;
+  width: 67.179%;
 " class="progress-item"></span><span style="
   background-color: #199f4b; 
-  width: 14.192%;
+  width: 14.188%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 10.425%;
-" class="progress-item"></span><span style="
-  background-color: #89e051; 
-  width: 1.559%;
+  width: 10.422%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.551%;
+  width: 1.559%;
+" class="progress-item"></span><span style="
+  background-color: #89e051; 
+  width: 1.558%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.431%;
+  width: 1.430%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 1.245%;
+  width: 1.244%;
 " class="progress-item"></span><span style="
   background-color: #ecdebe; 
   width: 0.471%;
@@ -443,7 +443,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Nix</span>
-  <span class="percent">67.17%</span>
+  <span class="percent">67.18%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -475,9 +475,25 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">10.43%</span>
+  <span class="percent">10.42%</span>
 </li>
 <li style="animation-delay: 600ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #3572A5;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Python</span>
+  <span class="percent">1.56%</span>
+</li>
+<li style="animation-delay: 750ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -492,22 +508,6 @@ div.ellipsis {
   ></path></svg>
   <span class="lang">Shell</span>
   <span class="percent">1.56%</span>
-</li>
-<li style="animation-delay: 750ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #3572A5;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Python</span>
-  <span class="percent">1.55%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
